@@ -1,0 +1,17 @@
+section {
+  margin: 10px 0;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+}
+
+section .col .btn-cart {
+  color: #FFFFFF;
+  background-color: hsl(158, 36%, 37%);
+};
+
+h1 {
+  font-size: 72px;
+}
